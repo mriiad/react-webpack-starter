@@ -10,4 +10,4 @@ Install React and ReactDOM: 'npm i react react-dom'\
 Install Babel: 'npm i -D @babel/core @babel/preset-env @babel/preset-react babel-loader'\
 Install Webpack: 'npm i -D webpack webpack-cli'\
 Install Webpack loaders: 'npm i -D babel-loader file-loader css-loader style-loader'\
-Install Webpack dev server: 'npm i webpack-dev-server'\
+Install Webpack dev server: 'npm i webpack-dev-server'
